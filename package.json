@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.1.1",
     "chart.js": "^2.4.0",
     "colors": "^1.1.2",
     "components-font-awesome": "^4.7.0",
@@ -32,10 +32,11 @@
     "pace-progress": "^1.0.2",
     "peity": "^3.2.0",
     "purify-css": "^1.1.9",
+    "uglifyjs": "^2.4.11",
     "wowjs": "^1.1.2"
   },
   "devDependencies": {
-    "clean-css": "^4.0.6",
+    "clean-css": "^4.1.11",
     "shelljs": "^0.7.6",
     "uglify-js": "^2.7.5"
   }

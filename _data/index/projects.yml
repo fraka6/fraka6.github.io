@@ -1,22 +1,39 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Flayer
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  url: https://bitbucket.org/fraka6/
+  # gh_user: jarrekk
+  # repo: Jalpc
+  # img: /static/assets/img/landing/jekyll.png
+  desc: flayers is a C++ Neural Net library designed by Francis Pieraut for his Research Master in Machine Learning on training inefficiency of large and deep network; It includes a python swig wrapper; flayers is part of mlboost
 
-- name: Python
+- name: mlboost
   i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  # gh_user: python
+  # repo: cpython
+  url: http://bit.ly/2HXJLPE
+  # img: /static/assets/img/landing/python.png
+  desc: mlboost is creating the ultimate boost python tools for extreme Machine Learning pro
 
-- name: Google
+- name: aicollective.ai
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  # url: https://google.com
+  # img: /static/assets/img/landing/google.png
+  desc: help lead Canada’s transformation into an AI superpower not only scientifically but also economically and morally.
+
+- name: digipy
+  i18n: google
+  url: https://bitbucket.org/fraka6/digipy/
+  # img: /static/assets/img/landing/google.png
+  desc: "Demo used in Montreal Python talk: Machine Learning empowered by Python  http://montrealpython.org/?p=50"
+
+
+- name: pytrade
+  i18n: jalpc
+  # url: https://bitbucket.org/fraka6/
+  gh_user: fraka6
+  repo: pytrade
+  # img: /static/assets/img/landing/jekyll.png
+  desc: Ultimate trading python tool to trade and build model with machine learning
