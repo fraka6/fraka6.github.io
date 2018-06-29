@@ -11,8 +11,9 @@
 - src: landing/communityAndAwards.jpg
   title: Let's celebrate AI !
 
+- src: landing/communityAndAwards.png
+  title: Community and awards
+  
 - src: landing/SiliconIslandAndAgileOps-original.jpg
   title: SiliconIsland.ca & AgileOps
 
-- src: landing/communityAndAwards.png
-  title: Community and awards
