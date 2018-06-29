@@ -1,5 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: SiliconIsland vision 
+    i18n: company_g
+  desc:
+    detail: On November 15, I wrote the <a href="http://bit.ly/2J8Hfcg">SiliconIsland vision/master plan</a>.
+    i18n: company_g_desc
+  date:
+    detail: Nov 2015
+    i18n: company_g_date
+  job:
+    detail: Researcher@Nuance
+    i18n: company_g_job
+  icon: fa-plus-square
+
 - name:
     detail: SiliconIsland.ai is born
     i18n: company_a
@@ -60,21 +75,21 @@
     detail: Partnership Fondation CSDM
     i18n: company_e
   desc:
-    detail: Empowering kids from 8-12 years in embrassing and leveraging AI for Really Social Good.
+    detail: Empowering kids from 12-17 years in embrassing and leveraging AI for Really Social Good.
     i18n: company_e_desc
   date:
     detail: May 2018
     i18n: company_e_date
   job:
-    detail: Instructor
+    detail: Founder
     i18n: company_e_job
   icon: fa-plus-square
 
 - name:
-    detail: Opening of SiliconIsland.ai Head Office
+    detail: Strategic Partnership with Calliere Group
     i18n: company_f
   desc:
-    detail: We will open our Head Office in 1188 union, downtown Montreal.
+    detail: We are offering AI Headhunting and consultant placement services
     i18n: company_f_desc
   date:
     detail: June 2018
@@ -82,4 +97,18 @@
   job:
     detail: Chief AI Officier
     i18n: company_f_job
+  icon: fa-plus-square
+
+- name:
+    detail: Opening of SiliconIsland.ai Head Office
+    i18n: company_h
+  desc:
+    detail: We will open our Head Office in 1188 union, downtown Montreal.
+    i18n: company_h_desc
+  date:
+    detail: June 2018
+    i18n: company_h_date
+  job:
+    detail: Chief AI Officier
+    i18n: company_h_job
   icon: fa-plus-square
