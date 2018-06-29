@@ -7,7 +7,7 @@
   # gh_user: jarrekk
   # repo: Jalpc
   # img: /static/assets/img/landing/jekyll.png
-  desc: flayers is a C++ Neural Net library designed by Francis Pieraut for his Research Master in Machine Learning on training inefficiency of large and deep network; It includes a python swig wrapper; flayers is part of mlboost
+  desc: flayers is a C++ Neural Net library designed by Francis Pieraut to conduct his <a href="http://bit.ly/2KyVR5m">research in Machine Learning on training inefficiency of large and deep network</a>; It includes a python swig wrapper; flayers is part of mlboost
 
 - name: mlboost
   i18n: cpython
@@ -15,7 +15,7 @@
   # repo: cpython
   url: http://bit.ly/2HXJLPE
   # img: /static/assets/img/landing/python.png
-  desc: mlboost is creating the ultimate boost python tools for extreme Machine Learning pro
+  desc: mlboost is the ultimate boost python tools for extreme Machine Learning prototyping - evolving since 2005.
 
 - name: aicollective.ai
   i18n: google
@@ -25,10 +25,15 @@
 
 - name: digipy
   i18n: google
-  url: https://bitbucket.org/fraka6/digipy/
+  url: http://bit.ly/2MxDU4E
   # img: /static/assets/img/landing/google.png
-  desc: "Demo used in Montreal Python talk: Machine Learning empowered by Python  http://montrealpython.org/?p=50"
+  desc: "Demo used in Montreal Python talk: Machine Learning empowered by Python http://montrealpython.org/?p=50"
 
+- name: digiface
+  i18n: google
+  url: http://bit.ly/2MzJ3cy
+  # img: /static/assets/img/landing/google.png
+  desc: Package used in ETS Machine learning class - <a href="http://bit.ly/2ICziIe">Digiface</a> is a framework to train face recognition ML.
 
 - name: pytrade
   i18n: jalpc
