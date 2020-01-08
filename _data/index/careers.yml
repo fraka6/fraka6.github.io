@@ -16,10 +16,24 @@
   icon: fa-plus-square
 
 - name:
+    detail: Intrapreneur@Squarepoint Technology 
+    i18n: company_g
+  desc:
+    detail: Build and expand the technology core and research team of Squarepoint edge fund in Montreal.
+    i18n: company_g_desc
+  date:
+    detail: April 2016
+    i18n: company_g_date
+  job:
+    detail: COO@Squarepoint Technology
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
     detail: SiliconIsland.ai is born
     i18n: company_a
   desc:
-    detail: We funded SiliconIsland.ai in January 2018. It was time to walk the talk and implement the master plan.
+    detail: I rebranded QMining.com SiliconIsland.ai in January 2018. It was time to walk the talk and implement the master plan.
     i18n: company_a_desc
   date:
     detail: Jan 2018
@@ -100,13 +114,13 @@
   icon: fa-plus-square
 
 - name:
-    detail: Opening of SiliconIsland.ai Head Office
+    detail: Intrapreneur - AI Strategist Merck
     i18n: company_h
   desc:
-    detail: We will open our Head Office in 1188 union, downtown Montreal.
+    detail: Intrapreneurship at Merck "Defining Merck Canada AI Strategy"
     i18n: company_h_desc
   date:
-    detail: June 2018
+    detail: April 2018
     i18n: company_h_date
   job:
     detail: Chief AI Officier
