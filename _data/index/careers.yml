@@ -2,6 +2,167 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
+    detail: Internship Microcell Labs 
+    i18n: company_g
+  desc:
+    detail: In summer 1997, I did an intership at Microcell labs and integrate decisions tree algo into ad (ancester of plearn). I meet and work under Samy Bengio..which turn into part-time work and another internship....  
+    i18n: company_g_desc
+    url: http://community.fortunecity.ws/oasis/tahoe/936/francis/PFE/pfe.htm
+  date:
+    detail: Summer 1997
+    i18n: company_g_date
+  job:
+    detail: student@polytechnique
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Intership at Locus Dialog (meet and work under Regis Cardin)
+    i18n: company_g
+  desc:
+    detail: In summer 1999, I did an intership at Locus Dialog and learn about speech recognition and the importance of training dataset quality 
+    i18n: company_g_desc
+  date:
+    detail: Summer 1999
+    i18n: company_g_date
+  job:
+    detail: student@polytechnique
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Master in Apply Science at LISA now MILA
+    i18n: company_g
+  desc:
+    detail: "Most interesting research experience. I did lot of experiment to understand why deep architecture can't be trained properly. Push plean to its limit, develop flayers crazy tool and challenged plearn performance by competing with torch. Meet amazing researcher: Yoshua, Pascal Vincent, Ronan Collobert, Christian Jauvin, Gilles Caporossi etc."  
+    i18n: company_g_desc
+  date:
+    detail: Summer 1999
+    i18n: company_g_date
+  job:
+    detail: student@lisa
+    i18n: company_g_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Junior Research Engineer@idilia
+    i18n: company_g
+  desc:
+    detail: Learn linux low level powerfull tools such as sed/cut/awk/grep to do complexe preprocessing and learn to improve the tagger and meet Jeremy Barnes
+    i18n: company_g_desc
+  date:
+    detail: Summer 1999
+    i18n: company_g_date
+  job:
+    detail: junior@researcher
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: launch mlboot
+    i18n: company_g
+  desc:
+    detail: Launch V0.1 of mlboost -> python script to boost my machine learning projects
+    url: https://sourceforge.net/projects/mlboost/
+    i18n: company_g_desc
+  date:
+    detail: winter 2006
+    i18n: company_g_date
+  job:
+    detail: Machine Learning Specialist@coradiant
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Start to speak in usergroup conference 
+    i18n: company_g
+  desc:
+    detail: Everything started after meeting Yannick Gingras -> Machine Learning empower by Python @PythonMontreal
+    url: https://sourceforge.net/projects/mlboost/
+    i18n: company_g_desc
+  date:
+    detail: winter 2008
+    i18n: company_g_date
+  job:
+    detail: dev@pivotalpayments
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Lecturer Machine Learning ETS
+    i18n: company_g
+  desc:
+    detail: ETS university ask me to teach Machine Learning to last year undergrade software engineer
+    i18n: company_g_desc
+  date:
+    detail: spring 2010
+    i18n: company_g_date
+  job:
+    detail: founder@qmining.com
+    i18n: company_g_job
+  icon: fa-plus-square
+
+
+- name:
+    detail: Learn entrepreneurship and bootstrapping
+    i18n: company_g
+  desc:
+    detail: launch QMining after doing part-time consulting for thomson reuter
+    url: https://qmining.com
+    i18n: company_g_desc
+  date:
+    detail: winter 2010
+    i18n: company_g_date
+  job:
+    detail: founder@qmining.com
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Improve mlboost
+    i18n: company_g
+  desc: 
+    detail: Improve mlboost in various projects at Nuance 
+    url: "http://bit.ly/2HXJLPE"
+    i18n: company_g_desc
+  date:
+    detail: 2010-2013
+    i18n: company_g_date
+  job:
+    detail: researcher@nuance.com
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Nurture startup ecosystem
+    i18n: company_g
+  desc: 
+    detail: Join the startup cabal (connector/enabler)
+    i18n: company_g_desc
+  date:
+    detail: 2010-2013
+    i18n: company_g_date
+  job:
+    detail: researcher@nuance.com
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: Big-Data MTL co-organizator
+    i18n: company_g
+  desc: 
+    detail: Help improve, organize & recruit speaker 
+    url: https://www.meetup.com/Big-Data-Montreal/
+    i18n: company_g_desc
+  date:
+    detail: 2010-2013
+    i18n: company_g_date
+  job:
+    detail: researcher@nuance.com
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
     detail: SiliconIsland vision 
     i18n: company_g
   desc:
@@ -33,7 +194,7 @@
     detail: SiliconIsland.ai is born
     i18n: company_a
   desc:
-    detail: I rebranded QMining.com SiliconIsland.ai in January 2018. It was time to walk the talk and implement the master plan.
+    detail: I rebranded QMining.com SiliconIsland.ai in Feb 2017. It was time to walk the talk and implement the master plan.
     i18n: company_a_desc
   date:
     detail: Jan 2018
@@ -114,13 +275,27 @@
   icon: fa-plus-square
 
 - name:
+    detail: Instructor Big-Data@Concordia  
+    i18n: company_h
+  desc:
+    detail: "Big-data certificate instructor: Infra (IT) & Storage(Business)"
+    i18n: company_h_desc
+  date:
+    detail: 2018
+    i18n: company_h_date
+  job:
+    detail: Chief AI Officier
+    i18n: company_h_job
+  icon: fa-plus-square
+  
+- name:
     detail: Intrapreneur - AI Strategist Merck
     i18n: company_h
   desc:
     detail: Intrapreneurship at Merck "Defining Merck Canada AI Strategy"
     i18n: company_h_desc
   date:
-    detail: April 2018
+    detail: April 2019
     i18n: company_h_date
   job:
     detail: Chief AI Officier

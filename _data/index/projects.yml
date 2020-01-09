@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Flayer
+- name: flayers
   i18n: jalpc
   url: https://bitbucket.org/fraka6/
   # gh_user: jarrekk
@@ -42,3 +42,18 @@
   repo: pytrade
   # img: /static/assets/img/landing/jekyll.png
   desc: Ultimate trading python tool to trade and build model with machine learning
+
+- name: big-data infra class 
+  i18n: jalpc
+  url: http://bit.ly/2IJQfEy 
+  gh_user: fraka6
+  # img: /static/assets/img/landing/jekyll.png
+  desc: big-data infra class content - All what you need to know and launch an infrastructure
+
+- name: Big Data Storage (Platform+life cycle) 
+  i18n: jalpc
+  url: http://bit.ly/2k5nQej
+  gh_user: fraka6
+  # img: /static/assets/img/landing/jekyll.png
+  desc: big-data storage class content - All what you need to know about big data storage and how to deploy it. 
+
