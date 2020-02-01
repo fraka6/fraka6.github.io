@@ -59,6 +59,21 @@
   icon: fa-plus-square
 
 - name:
+    detail: Machine Learning Specialist@Coradiant
+    i18n: company_g
+  desc:
+    detail: First indian in the advanced dev team of Coradiant in Eric Packman team (CTO)
+    url: https://www.borndigital.com/2011/04/28/montreals-coradiant-acquired-by-bmc-2011-04-28
+    i18n: company_g_desc
+  date:
+    detail: winter 2006
+    i18n: company_g_date
+  job:
+    detail: Machine Learning Specialist@coradiant
+    i18n: company_g_job
+  icon: fa-plus-square
+  
+- name:
     detail: launch mlboot
     i18n: company_g
   desc:
@@ -72,6 +87,7 @@
     detail: Machine Learning Specialist@coradiant
     i18n: company_g_job
   icon: fa-plus-square
+  
 
 - name:
     detail: Start to speak in usergroup conference 
