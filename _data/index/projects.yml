@@ -81,12 +81,12 @@
   # img: /static/assets/img/landing/jekyll.png
   desc: Ultimate trading python tool to trade and build model with machine learning
 
-- name: big-data infra class 
+- name: Francis content slides  
   i18n: jalpc
-  url: http://bit.ly/2IJQfEy 
+  url: http://bit.ly/2GezwnK
   gh_user: fraka6
   # img: /static/assets/img/landing/jekyll.png
-  desc: big-data infra class content - All what you need to know and launch an infrastructure
+  desc: All my content created so far
 
 - name: Big Data Storage Class content (Platform+life cycle) 
   i18n: jalpc
