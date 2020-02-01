@@ -92,7 +92,7 @@
     detail: Lecturer Machine Learning ETS
     i18n: company_g
   desc:
-    detail: ETS university ask me to teach Machine Learning to last year undergrade software engineer
+    detail: ETS university ask me to teach Machine Learning to last year undergrade software engineer (where looking for practitionner not only theoritical people -> Thanks Francois and Luc)
     i18n: company_g_desc
   date:
     detail: spring 2010
@@ -151,7 +151,7 @@
     detail: Big-Data MTL co-organizator
     i18n: company_g
   desc: 
-    detail: Help improve, organize & recruit speaker 
+    detail: Help improve, organize & recruit speaker & push the flash presentation framework 
     url: https://www.meetup.com/Big-Data-Montreal/
     i18n: company_g_desc
   date:
@@ -173,6 +173,20 @@
     i18n: company_g_date
   job:
     detail: Researcher@Nuance
+    i18n: company_g_job
+  icon: fa-plus-square
+
+- name:
+    detail: TMining.io 
+    i18n: company_g
+  desc:
+    detail: During fall, I team-up with Andre Girard to launch TMining.io (Google Analytics in the real world to optimize sales conversion from door sensor and transactions"
+    i18n: company_g_desc
+  date:
+    detail: fall 2015
+    i18n: company_g_date
+  job:
+    detail: experiment@TMining.io
     i18n: company_g_job
   icon: fa-plus-square
 
@@ -208,10 +222,10 @@
     detail: Chief AI Officier@allai.ca
     i18n: company_b
   desc:
-    detail: SiliconIsland.ai is now empowering allai.ca
+    detail: SiliconIsland.ai is now empowering allai.ca (Strategic Advisor/Mentor, Investor, Connector & help pitch to raise millions)  
     i18n: company_b_desc
   date:
-    detail: Nov 2017
+    detail: 2018
     i18n: company_b_date
   job:
     detail: Chief AI Officier@allai.ca
@@ -264,7 +278,7 @@
     detail: Strategic Partnership with Calliere Group
     i18n: company_f
   desc:
-    detail: We are offering AI Headhunting and consultant placement services
+    detail: We are offering AI Headhunting and consultant placement services specialized in AI resources
     i18n: company_f_desc
   date:
     detail: June 2018
@@ -278,7 +292,7 @@
     detail: Instructor Big-Data@Concordia  
     i18n: company_h
   desc:
-    detail: "Big-data certificate instructor: Infra (IT) & Storage(Business)"
+    detail: "Big-data certificate instructor: Infra (IT) & Storage (Business)"
     i18n: company_h_desc
   date:
     detail: 2018

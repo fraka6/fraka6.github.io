@@ -1,13 +1,41 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: flayers
-  i18n: jalpc
-  url: https://bitbucket.org/fraka6/
-  # gh_user: jarrekk
-  # repo: Jalpc
-  # img: /static/assets/img/landing/jekyll.png
-  desc: flayers is a C++ Neural Net library designed by Francis Pieraut to conduct his <a href="http://bit.ly/2KyVR5m">research in Machine Learning on training inefficiency of large and deep network</a>; It includes a python swig wrapper; flayers is part of mlboost
+
+- name: Projet de fin d'etude (Ajout et adaptation d'un algorithme d'apprentissage (arbre de décisions) à une librairie (AD))  
+  i18n: c++
+  url: http://community.fortunecity.ws/oasis/tahoe/936/francis/PFE/pfe.htm
+  desc: Projet de fin d'etude fait dans le lab de R&D de Microcell-labs under Samy Bengio)
+
+- name: ArgvParser
+  i18n: c++
+  url: http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/index.html
+  desc: ArgvParser(are you tired of getopt of GNU ? you should try this !)  download source code (right click-save as) http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/argvparser.zip
+
+- name: ICU2
+  i18n: c++
+  url: http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/index.html
+  desc: Tools written in C++ to check RAM, chat server
+
+- name: EuroVelo 2000
+  i18n: traveling
+  url: http://community.fortunecity.ws/oasis/tahoe/936/index.html
+  desc: Bike trip around europe in 2000 for about 9 months (bike in 11 countries)
+
+- name: ICU2
+  i18n: c++
+  url: http://community.fortunecity.ws/oasis/tahoe/936/francis/MPG/alpha_205.htm
+  desc: Hyper optimized Video conference tool written in C++ by Laurent & Francis Pieraut in 1999
+  
+- name: fpieraut website (LISA now MILA)
+  i18n: website
+  url: http://community.fortunecity.ws/oasis/tahoe/936/francis/index.html
+  desc: my website during Master research in LISA (Bengio Lab)
+
+- name: fraka6 blog (tech blog - No Free Lunch)
+  i18n: website
+  url: https://fraka6.blogspot.com/
+  desc: My first blog. Some thoughts of a Machine Learning Practitioner on Software Development, Management, Team Building, Startups, Python, Agile Development, Data visualization... that will distract you from your end goals by making you less efficient but are critical to manage in order to succeed. Don't forget that long time adaptation to inefficient approaches can become your enemy. Let's try to empower others by sharing knowledge & personal experiences.
 
 - name: mlboost
   i18n: cpython
@@ -15,13 +43,28 @@
   # repo: cpython
   url: http://bit.ly/2HXJLPE
   # img: /static/assets/img/landing/python.png
-  desc: mlboost is the ultimate boost python tools for extreme Machine Learning prototyping - evolving since 2005.
+  desc: mlboost is the ultimate boost python tools for extreme Machine Learning prototyping - evolving since 2005 but started privately in 2003.
 
-- name: aicollective.ai
+- name: fr2qc.blogspot.com blog (immigrant blog france to quebec)
+  i18n: website
+  url: https://fr2qc.blogspot.com/
+  desc: Imigrant blog. J'ai immigré au Québec dans les années 80 et les Francais doivent mieux comprendre la culture Québécoise pour mieux s'y intégrer. Il y a des différences culturelles notables qu'il faut connaitre.
+
+- name: fr2qc.blogspot.com blog (immigrant blog france to quebec)
+  i18n: website
+  url: https://fr2qc.blogspot.com/
+  desc: Imigrant blog. J'ai immigré au Québec dans les années 80 et les Francais doivent mieux comprendre la culture Québécoise pour mieux s'y intégrer. Il y a des différences culturelles notables qu'il faut connaitre.
+
+- name: conspirationmiddleclass.blogspot.com blog on finance IQ
+  i18n: website
+  url: http://conspiracymiddleclass.blogspot.ca/
+  desc: Middle class is slowly becoming irrelevant due to technology and increase professional education. Middle class has to become more financially educated to counter balance the rich or humanity will fall back to its normal balance-> Rich and Poor (no more real strong middle class).
+  
+- name: ai-collective.org
   i18n: google
-  # url: https://google.com
+  # url: http://ai-collective.org/
   # img: /static/assets/img/landing/google.png
-  desc: help lead Canada’s transformation into an AI superpower not only scientifically but also economically and morally.
+  desc: help lead Canada’s transformation into an AI superpower not only scientifically but also economically and morally by connecting more dots.
 
 - name: digipy
   i18n: google
@@ -57,3 +100,8 @@
   # img: /static/assets/img/landing/jekyll.png
   desc: big-data storage class content - All what you need to know about big data storage and how to deploy it. 
 
+- name: new blog on medium (tech & strategy)
+  i18n: google
+  url: https://medium.com/@fpieraut
+  # img: /static/assets/img/landing/google.png
+  desc: Looking for a better blog platform to share my thoughts on share my learnings. 
