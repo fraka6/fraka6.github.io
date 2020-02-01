@@ -2,17 +2,17 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: Projet de fin d'etude (Ajout et adaptation d'un algorithme d'apprentissage (arbre de décisions) à une librairie (AD))  
+- name: Projet de fin d'etude 
   i18n: c++
   url: http://community.fortunecity.ws/oasis/tahoe/936/francis/PFE/pfe.htm
-  desc: Projet de fin d'etude fait dans le lab de R&D de Microcell-labs under Samy Bengio)
+  desc: Projet de fin d'etude fait dans le lab de R&D de Microcell-labs under Samy Bengio). Title = Ajout et adaptation d'un algorithme d'apprentissage (arbre de décisions) à une librairie (AD)  
 
 - name: ArgvParser
   i18n: c++
   url: http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/index.html
   desc: ArgvParser(are you tired of getopt of GNU ? you should try this !)  download source code (right click-save as) http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/argvparser.zip
 
-- name: ICU2
+- name: ICU2 (I See You To - video compressor)
   i18n: c++
   url: http://community.fortunecity.ws/oasis/tahoe/936/francis/utilitaires/index.html
   desc: Tools written in C++ to check RAM, chat server
@@ -45,12 +45,12 @@
   # img: /static/assets/img/landing/python.png
   desc: mlboost is the ultimate boost python tools for extreme Machine Learning prototyping - evolving since 2005 but started privately in 2003.
 
-- name: fr2qc.blogspot.com blog (immigrant blog france to quebec)
+- name: fr2qc blog (immigrant blog france to quebec)
   i18n: website
   url: https://fr2qc.blogspot.com/
   desc: Imigrant blog. J'ai immigré au Québec dans les années 80 et les Francais doivent mieux comprendre la culture Québécoise pour mieux s'y intégrer. Il y a des différences culturelles notables qu'il faut connaitre.
 
-- name: conspirationmiddleclass.blogspot.com blog on finance IQ
+- name: conspirationmiddleclass blog on finance IQ
   i18n: website
   url: http://conspiracymiddleclass.blogspot.ca/
   desc: Middle class is slowly becoming irrelevant due to technology and increase professional education. Middle class has to become more financially educated to counter balance the rich or humanity will fall back to its normal balance-> Rich and Poor (no more real strong middle class).
@@ -88,14 +88,14 @@
   # img: /static/assets/img/landing/jekyll.png
   desc: big-data infra class content - All what you need to know and launch an infrastructure
 
-- name: Big Data Storage (Platform+life cycle) 
+- name: Big Data Storage Class content (Platform+life cycle) 
   i18n: jalpc
   url: http://bit.ly/2k5nQej
   gh_user: fraka6
   # img: /static/assets/img/landing/jekyll.png
   desc: big-data storage class content - All what you need to know about big data storage and how to deploy it. 
 
-- name: new blog on medium (tech & strategy)
+- name: New blog on medium (tech & strategy)
   i18n: google
   url: https://medium.com/@fpieraut
   # img: /static/assets/img/landing/google.png
