@@ -17,10 +17,10 @@
   icon: fa-plus-square
 
 - name:
-    detail: Intership at Locus Dialog (meet and work under Regis Cardin)
+    detail: Intership at Locus Dialog (speech to text)
     i18n: company_g
   desc:
-    detail: In summer 1999, I did an intership at Locus Dialog and learn about speech recognition and the importance of training dataset quality 
+    detail: In summer 1999, I did an intership at Locus Dialog and learn about speech recognition and the importance of training dataset quality under Regis Cardin leadership and met Simona Grandrabur and met JLT (Jean-Luc Trepanier) 
     i18n: company_g_desc
   date:
     detail: Summer 1999
