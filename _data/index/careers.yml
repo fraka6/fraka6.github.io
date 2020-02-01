@@ -188,7 +188,7 @@
     detail: Nov 2015
     i18n: company_g_date
   job:
-    detail: Researcher@Nuance
+    detail: Researcher@Nuance.com
     i18n: company_g_job
   icon: fa-plus-square
 
@@ -196,7 +196,7 @@
     detail: TMining.io 
     i18n: company_g
   desc:
-    detail: During fall, I team-up with Andre Girard to launch TMining.io (Google Analytics in the real world to optimize sales conversion from door sensor and transactions"
+    detail: During fall, I team-up with Andre Girard to launch TMining.io (Google Analytics in the real world to optimize sales conversion from door sensor (IOT) and payment transactions)
     i18n: company_g_desc
   date:
     detail: fall 2015
